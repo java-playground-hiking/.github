@@ -1,0 +1,22 @@
+name: 💻 Get started java playground
+description: 자바 플레이그라운드 미션을 수행 하면서 태스크 관리, 코드 리뷰 요청 등 매니징
+title: "🙋🏻‍♂️ [INPUT LABEL NAME] - <INPUT TITLE>"
+
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Missions
+      options:
+        - ⚾️ 숫자 야구게임
+        - 🏎️ 자동차 경주 - TDD
+        - 📱 좌표 계산기 - 상속, 인터페이스
+        - 🃏 블랙잭 - 함수형 프로그래밍
+  - type: textarea
+    id: improvements-summary
+    attributes:
+      label: Questions, review requests and more... for mission
+      description: 미션을 진행 하면서 등록하는 이슈를 자유롭게 작성 해주세요. 리뷰 요청, 개인 태스크 관리, 질문 또는 토론 주제 등
+      placeholder: "내용을 작성 해주세요."
+    validations:
+      required: true
