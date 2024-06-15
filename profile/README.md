@@ -1,4 +1,4 @@
-# NEXT-STEP: Java playground hiking
+# NEXT-STEP: 자바 플레이그라운드 with TDD, 클린 코드
 
 <img src="https://github.com/java-playground-hiking/.github/assets/90545561/5e5c143a-32e9-447c-aa7a-e38702339091" alt="java-playground" width="600" height="600"/>
 
@@ -7,7 +7,7 @@
 
 ### 학습 목표
 ---
-
+next-step의 자바 플레이그라운드 with TDD, 클린 코드 강의를 듣고 코드를 작성하여 자기주도적으로 문제를 해결하고 공유합니다.
 콘솔 토이 프로젝트를 활용 하여 퓨어 자바에서 근본적 자신감을 얻기 위함이며, 기본 문법 학습에 그치지 않고 연출 된 다양한 상황에서 서로가 접근하는 방식에 대한 관점 이해 + 본인의 생각을 논리적으로 설명 하는 방식을 목표로 합니다.
 
 <br>
