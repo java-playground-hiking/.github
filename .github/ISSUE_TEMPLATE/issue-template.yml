@@ -12,7 +12,7 @@ body:
         - 🏎️ 자동차 경주 - TDD
         - 📱 좌표 계산기 - 상속, 인터페이스
         - 🃏 블랙잭 - 함수형 프로그래밍
-  - type: markdown
+  - type: textarea
     id: improvements-summary
     attributes:
       label: Descriptions
