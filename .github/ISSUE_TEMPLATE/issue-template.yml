@@ -12,11 +12,25 @@ body:
         - 🏎️ 자동차 경주 - TDD
         - 📱 좌표 계산기 - 상속, 인터페이스
         - 🃏 블랙잭 - 함수형 프로그래밍
-  - type: textarea
+  - type: markdown
     id: improvements-summary
     attributes:
-      label: Questions, review requests and more... for mission
-      description: 미션을 진행 하면서 등록하는 이슈를 자유롭게 작성 해주세요. 리뷰 요청, 개인 태스크 관리, 질문 또는 토론 주제 등
-      placeholder: "내용을 작성 해주세요."
+      label: Descriptions
+          value: |
+            ### ✅ Tasks
+            ---
+
+            - [ ]
+            - [ ]
+            - [ ]
     validations:
       required: true
+- type: checkboxes
+  id: terms
+  attributes:
+    label: Confirmation
+    description: Issue check list
+    options:
+      - label: 프로젝트를 지정 했습니다.
+      - label: 담당자를 지정 했습니다.
+      - label: 라벨을 지정 했습니다.
