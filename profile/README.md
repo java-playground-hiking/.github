@@ -1,6 +1,7 @@
 # NEXT-STEP: Java playground hiking
 
 <img src="https://github.com/java-playground-hiking/.github/assets/90545561/5e5c143a-32e9-447c-aa7a-e38702339091" alt="java-playground" width="600" height="600"/>
+
 > [get started java playground](https://edu.nextstep.camp/s/RFY359FE)
 
 
