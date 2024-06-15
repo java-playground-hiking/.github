@@ -1,28 +1,78 @@
 [
 	{
-	"name": "baseball",
+	"name": "baseball-000/unit-test",
 	"color": "#edf1f5",
-	"description": "숫자 야구게임 - 단위 테스트"
+	"description": "숫자 야구게임 - 0. 학습 테스트 실습"
 	},
 	{
-	"name": "racingcar",
+	"name": "baseball-001/string-calculate",
+	"color": "#edf1f5",
+	"description": "숫자 야구게임 - 1. 문자열 계산기"
+	},
+	{
+	"name": "baseball-002/baseball-main",
+	"color": "#edf1f5",
+	"description": "숫자 야구게임 - 2. 숫자 야구 게임 구현"
+	},
+	{
+	"name": "baseball-003/baseball-refactor",
+	"color": "#edf1f5",
+	"description": "숫자 야구게임 - 3. 숫자 야구 게임 피드백 후 다시 구현"
+	},
+	{
+	"name": "racingcar-001/string-calculate",
 	"color": "#5cb575",
-	"description": "자동차 경주 - TDD"
+	"description": "자동차 경주 - 1. 문자열 덧셈 계산기"
 	},
 	{
-	"name": "coordinate",
+	"name": "racingcar-002/racingcar-main",
+	"color": "#5cb575",
+	"description": "자동차 경주 - 2. 자동차 경주 게임 구현"
+	},
+	{
+	"name": "racingcar-003/racingcar-refactor",
+	"color": "#5cb575",
+	"description": "자동차 경주 - 3. 자동차 경주 게임 피드백 후 다시 구현"
+	},
+	{
+	"name": "coordinate-001/fuel",
 	"color": "de5b7b",
-	"description": "좌표 계산기 - 상속, 인터페이스"
+	"description": "좌표 계산기 - 1. 연료 주입"
 	},
 	{
-	"name": "blackjack",
+	"name": "coordinate-002/line-legth",
+	"color": "de5b7b",
+	"description": "좌표 계산기 - 2. 좌표 계산기(선 길이)"
+	},
+	{
+	"name": "coordinate-003/coordinate-main-square-area",
+	"color": "de5b7b",
+	"description": "좌표 계산기 - 3. 좌표 계산기(사각형 면적)"
+	},
+	{
+	"name": "coordinate-004/coordinate-main-triangle-area",
+	"color": "de5b7b",
+	"description": "좌표 계산기 - 4. 좌표 계산기(삼각형 면적)"
+	},
+	{
+	"name": "coordinate-005/coordinate-refactor",
+	"color": "de5b7b",
+	"description": "좌표 계산기 - 5. 좌표 계산기 피드백 후 다시 구현"
+	},
+	{
+	"name": "blackjack-001/stream-lambda-optional",
 	"color": "#0c0d0d",
-	"description": "블랙잭 - 함수형 프로그래밍"
+	"description": "블랙잭 - 1. 자바 8 스트림, 람담, Optional"
 	},
 	{
-	"name": "feat",
-	"color": "84b6eb",
-	"description": "기능 구현"
+	"name": "blackjack-002/blackjack-main",
+	"color": "#0c0d0d",
+	"description": "블랙잭 - 2. 블랙잭 구현"
+	},
+	{
+	"name": "blackjack-003/blackjack-refactor",
+	"color": "#0c0d0d",
+	"description": "블랙잭 - 3. 블랙잭 피드백 후 다시 구현"
 	},
 	{
 	"name": "review-request",
