@@ -1,7 +1,6 @@
 name: 💻 Get started java playground
 description: 자바 플레이그라운드 미션을 수행 하면서 태스크 관리, 코드 리뷰 요청 등 이슈 활용
-title: " 🕹️ [INPUT_LABEL_NAME] - <INPUT_TITLE>"
-
+title: "🕹️ [INPUT_LABEL_NAME] - <INPUT_TITLE>"
 body:
   - type: dropdown
     id: type
@@ -9,28 +8,27 @@ body:
       label: Missions
       options:
         - ⚾️ 숫자 야구게임
-        - 🏎️ 자동차 경주 - TDD
+        - 🏎️ 자동차 경주 - TDD  
         - 📱 좌표 계산기 - 상속, 인터페이스
         - 🃏 블랙잭 - 함수형 프로그래밍
-  - type: textarea
+  - type: textarea
     id: improvements-summary
     attributes:
       label: Descriptions
-          value: |
-            ### ✅ Tasks
-            ---
-
-            - [ ]
-            - [ ]
-            - [ ]
+      value: |
+        ### ✅ Tasks
+        ---
+        - [ ]
+        - [ ]
+        - [ ]
     validations:
       required: true
-- type: checkboxes
-  id: terms
-  attributes:
-    label: Confirmation
-    description: Issue check list
-    options:
-      - label: 프로젝트를 지정 했습니다.
-      - label: 담당자를 지정 했습니다.
-      - label: 라벨을 지정 했습니다.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmation
+      description: Issue check list
+      options:
+        - label: 프로젝트를 지정 했습니다.
+        - label: 담당자를 지정 했습니다.
+        - label: 라벨을 지정 했습니다.
