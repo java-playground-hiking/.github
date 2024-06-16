@@ -40,3 +40,19 @@ next-step의 자바 플레이그라운드 with TDD, 클린 코드 강의를 듣�
 2. 자동차 경주 게임
 3. 좌표계산기
 4. 블랙잭
+
+<br>
+
+### 미션 진행 방법
+---
+
+<용어 정리>
+* **미션 레포지토리**: Github Organization에 등록 된 메인 레포지토리
+* **개인 레포지토리**: Github 개인 계정 레포지토리
+
+[Nextstep 미션 진행 방법](https://github.com/next-step/nextstep-docs/blob/master/playground/README.md) 해당 내용을 참고 하여 미션을 진행 합니다.
+`미션 레포지토리`는 현재 Organization 에 올려져 있는 레포지토리를 `fork`한 후 문제를 해결 하면 됩니다.
+
+미션을 해결 한 코드는 `PR`을 통해 해결한 내용을 작성하며, `Reviewers`, `Assignees`, `Projects`, `Milesstone` 을 지정 하여 현재 미션 진행 상황에 대한 진척도를 공유 합니다.
+
+그 외에 필요 시 적극적으로 `미션 레포지토리`의 `Issues`를 활용 하여 현재 진행 하고 있는 상태나 궁금한 내용 또는 `PR`에 대한 코드 리뷰, 페어 프로그래밍 요청 등 다양한 방식을 이용 하여 미션을 진행 하면서 긴 호흡으로 유지될 수 있게 관리 합니다.
