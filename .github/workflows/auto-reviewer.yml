@@ -1,7 +1,8 @@
 name: 'Auto Assign Reviewer'
+
 on:
-  pull_request_target:
-    types: [opened, reopened]
+  workflow_call:
+
 jobs:
   add-reviews:
     runs-on: ubuntu-latest
