@@ -1,0 +1,12 @@
+ # auto-assign.yml
+    
+ addReviewers: true
+ addAssignees: false
+
+ # A list of reviewers to be added to pull requests (GitHub user name)
+ reviewers:
+   - ohdeng02
+   - rigyeonghong
+   - JoHyoju04
+
+ numberOfReviewers: 1
